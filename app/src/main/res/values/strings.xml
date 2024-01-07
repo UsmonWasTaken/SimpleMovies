@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">SimpleMovies</string>
+    <string name="no_movies">No movies to display!</string>
+    <string name="search_hint">Search…</string>
+    <string name="credits">Credits</string>
+    <string name="show_credits">Show credits…</string>
+    <string name="no_credits">No credits</string>
+    <string name="reviews">Reviews</string>
+    <string name="anonymous">Anonymous</string>
+    <string name="show_more">Show more</string>
+    <string name="show_less">Show less</string>
+    <string name="no_reviews">No reviews</string>
+    <string name="not_implemented">Not implemented!</string>
+</resources>
