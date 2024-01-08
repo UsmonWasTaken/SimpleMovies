@@ -2,7 +2,7 @@
 
 This project is a hands-on exploration of building a scalable Android app using Jetpack Compose. You'll gain practical experience with various technologies and architectural patterns by following along.
 
-[Image of screenshots](screenshots.png)
+![Image of screenshots](screenshots.png)
 
 **Getting Started**
 
@@ -35,4 +35,4 @@ This project adopts a scalable, multi-module architecture, promoting code organi
 - **Library Modules:** These modules contain reusable code that can be shared across various features within your app.
 - **Injector Modules:** These modules establish the dependency graph for the application. The `app` module typically falls into this category.
 
-[Illustrative diagram of feature module architecture](architecture.png)
+![Illustrative diagram of the app architecture](architecture.png)
